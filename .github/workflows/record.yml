@@ -31,7 +31,7 @@ jobs:
       fail-fast: false
       matrix:
         target:
-          - "@bekalki|UC-JQRYHht4tLKpiChum6GnA"
+          - "@NDTV|UCZFMm1mMw0F81Z37aaEzTUA"
 
     steps:
       - name: Checkout Repository
